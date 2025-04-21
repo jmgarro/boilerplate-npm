@@ -1,9 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.21.2"
 	},
 	"author": "Jose Martinez Garro",
+	"description": "this is the second exercise from the npm course at freecodeCamp",
+	"keywords":["exercise 3", "adding keywords", "this is very simple so far so good", "freecodecamp"],
+	"license": "MIT",
+	"version": "0.0.1",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
